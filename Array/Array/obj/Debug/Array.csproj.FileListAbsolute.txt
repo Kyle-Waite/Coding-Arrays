@@ -1,0 +1,15 @@
+c:\users\kyle waite\documents\visual studio 2015\Projects\Array\Array\bin\Debug\Array.exe.config
+c:\users\kyle waite\documents\visual studio 2015\Projects\Array\Array\bin\Debug\Array.exe
+c:\users\kyle waite\documents\visual studio 2015\Projects\Array\Array\bin\Debug\Array.pdb
+c:\users\kyle waite\documents\visual studio 2015\Projects\Array\Array\obj\Debug\Array.csprojResolveAssemblyReference.cache
+c:\users\kyle waite\documents\visual studio 2015\Projects\Array\Array\obj\Debug\Array.exe
+c:\users\kyle waite\documents\visual studio 2015\Projects\Array\Array\obj\Debug\Array.pdb
+<<<<<<< HEAD
+C:\Users\Kyle Waite\Documents\GitHub\Coding-Arrays\Array\Array\bin\Debug\Array.exe.config
+C:\Users\Kyle Waite\Documents\GitHub\Coding-Arrays\Array\Array\obj\Debug\Array.exe
+C:\Users\Kyle Waite\Documents\GitHub\Coding-Arrays\Array\Array\obj\Debug\Array.pdb
+C:\Users\Kyle Waite\Documents\GitHub\Coding-Arrays\Array\Array\bin\Debug\Array.exe
+C:\Users\Kyle Waite\Documents\GitHub\Coding-Arrays\Array\Array\bin\Debug\Array.pdb
+C:\Users\Kyle Waite\Documents\GitHub\Coding-Arrays\Array\Array\obj\Debug\Array.csprojResolveAssemblyReference.cache
+=======
+>>>>>>> origin/master
