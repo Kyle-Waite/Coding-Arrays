@@ -366,7 +366,6 @@ namespace Array
       //int[] arr = new int[firstInput];
       //int[] evenArr = new int[firstInput];
       //int[] oddArr = new int[firstInput];
-
       //for (i = 0; i < firstInput; i++)
       //{
       //  Console.Write("Element - {0} : ", i);
@@ -415,4 +414,3 @@ namespace Array
     }
   }
 }
-
